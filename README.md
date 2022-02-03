@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm ninilich
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I help companies leverage their data</h3>
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninilich&layout=compact)](https://github.com/ninilich)
 
 <!--
 **ninilich/ninilich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
