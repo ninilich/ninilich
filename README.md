@@ -3,6 +3,7 @@
 <h3 align="center">I help companies leverage their data</h3>
 
 
+![Spark](https://img.shields.io/badge/spark-3670A0?style=for-the-badge&logo=spark&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 
