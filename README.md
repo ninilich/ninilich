@@ -5,8 +5,6 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninilich&layout=compact)](https://github.com/ninilich)
 
