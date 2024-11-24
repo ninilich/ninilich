@@ -27,6 +27,23 @@
     </a>
 </p>
 
+<h2 align="center">My Open Source Projects on Github</h2>
+<p align="center">
+<p align="center">
+<p align="center">
+    <a href="https://github.com/ninilich/dag-executor-lib" target="_blank">
+        <img src="https://img.shields.io/badge/DAG_Executor_Library-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="DAG Executor Library"/>
+    </a>
+    <a href="https://github.com/ninilich/json-schema-to-spark" target="_blank">
+        <img src="https://img.shields.io/badge/JSON_Schema_to_Spark-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="JSON Schema to Spark"/>
+    </a>
+</p>
+
+</p>
+
+</p>
+
+
 <!--
 **ninilich/ninilich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
