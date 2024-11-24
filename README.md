@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm ninilich
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I help companies leverage their data</h3>
+<h3 align="center">Highly skilled Data Architect & Big Data Engineering Lead | Spark, Scala, Python, Cloud | Help companies leverage their data | Connecting business and IT/h3>
 
 
 ![Spark](https://img.shields.io/badge/spark-3670A0?style=for-the-badge&logo=spark&logoColor=ffdd54)
