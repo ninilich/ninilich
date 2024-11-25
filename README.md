@@ -32,10 +32,10 @@
 <p align="center">
 <p align="center">
     <a href="https://github.com/ninilich/dag-executor-lib" target="_blank">
-        <img src="https://img.shields.io/badge/DAG_Executor_Library-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="DAG Executor Library"/>
+        <img src="https://img.shields.io/badge/DAG_Executor_Library-4CAF50?style=for-the-badge&logo=scala&logoColor=white" alt="DAG Executor Library"/>
     </a>
     <a href="https://github.com/ninilich/json-schema-to-spark" target="_blank">
-        <img src="https://img.shields.io/badge/JSON_Schema_to_Spark-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="JSON Schema to Spark"/>
+        <img src="https://img.shields.io/badge/JSON_Schema_to_Spark-2196F3?style=for-the-badge&logo=python&logoColor=white" alt="JSON Schema to Spark"/>
     </a>
 </p>
 
