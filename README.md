@@ -65,3 +65,11 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+## 📬 Contact
+
+<p align="center">
+  For any inquiries: <a href="mailto:ninilich@tuta.io">ninilich@tuta.io</a>
+</p>
