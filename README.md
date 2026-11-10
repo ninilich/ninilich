@@ -56,7 +56,14 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="50%">
+      <a href="https://github.com/ninilich/boring-meeting"><b>boring-meeting</b></a><br/><br/>
+      <sub>Local meeting recorder & transcriber for macOS.<br/>Whisper-powered, no cloud. Mic + system audio, local HTTP API.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
+      <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS"/>
+      <img src="https://img.shields.io/github/stars/ninilich/boring-meeting?style=flat-square" alt="Stars"/>
+    </td>
+    <td align="center" width="50%">
       <a href="https://github.com/ninilich/eye-heaven-app"><b>eye-heaven-app</b></a><br/><br/>
       <sub>macOS menu bar app — smart eye strain timer with stereogram exercises.<br/>9 languages, Focus Mode awareness, idle detection.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
@@ -65,6 +72,16 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ninilich&show_icons=true&hide=commits&hide_border=true&theme=default" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninilich&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
+</p>
 
 <br/>
 
