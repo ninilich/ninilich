@@ -78,9 +78,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninilich&show_icons=true&hide=commits&hide_border=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ninilich" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninilich&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ninilich" alt="Top Languages"/>
 </p>
 
 <br/>
