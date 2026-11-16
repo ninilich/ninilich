@@ -42,33 +42,43 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/ninilich/dag-executor-lib"><b>dag-executor-lib</b></a><br/><br/>
-      <sub>Scala library for parallel task execution via DAG.<br/>Define tasks with dependencies, run them in correct order.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala"/>
-      <img src="https://img.shields.io/github/stars/ninilich/dag-executor-lib?style=flat-square" alt="Stars"/>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/ninilich/json-schema-to-spark"><b>json-schema-to-spark</b></a><br/><br/>
-      <sub>Python library: parses JSON Schema and builds<br/>Apache Spark DataFrame schema (StructType).</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
-      <img src="https://img.shields.io/github/stars/ninilich/json-schema-to-spark?style=flat-square" alt="Stars"/>
+    <td align="center" colspan="2">
+      <a href="https://github.com/ninilich/ucat"><b>ucat</b></a> &nbsp;·&nbsp; <a href="https://ucat.dev">Website</a><br/><br/>
+      <sub>Unity Catalog tables, changed like code.<br/>Declare. Plan. Apply. — YAML in git, plan &amp; apply from CI, no state file.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/> <img src="https://img.shields.io/github/v/release/ninilich/ucat?style=flat-square" alt="Release"/> <img src="https://img.shields.io/github/license/ninilich/ucat?style=flat-square" alt="License"/><br/>
+      <sub>🟢 active</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/ninilich/boring-meeting"><b>boring-meeting</b></a><br/><br/>
-      <sub>Local meeting recorder & transcriber for macOS.<br/>Whisper-powered, no cloud. Mic + system audio, local HTTP API.</sub><br/><br/>
+      <a href="https://github.com/ninilich/boring-meeting"><b>boring-meeting</b></a> &nbsp;·&nbsp; <a href="https://ninilich.github.io/boring-meeting/">Website</a><br/><br/>
+      <sub>Local meeting recorder &amp; transcriber for macOS.<br/>Whisper-powered, no cloud. Mic + system audio, local HTTP API.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
       <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS"/>
-      <img src="https://img.shields.io/github/stars/ninilich/boring-meeting?style=flat-square" alt="Stars"/>
+      <img src="https://img.shields.io/github/v/release/ninilich/boring-meeting?style=flat-square" alt="Release"/> <img src="https://img.shields.io/github/license/ninilich/boring-meeting?style=flat-square" alt="License"/><br/>
+      <sub>🟢 active</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/ninilich/eye-heaven-app"><b>eye-heaven-app</b></a><br/><br/>
       <sub>macOS menu bar app — smart eye strain timer with stereogram exercises.<br/>9 languages, Focus Mode awareness, idle detection.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
       <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS"/>
-      <img src="https://img.shields.io/github/stars/ninilich/eye-heaven-app?style=flat-square" alt="Stars"/>
+      <img src="https://img.shields.io/github/v/release/ninilich/eye-heaven-app?style=flat-square" alt="Release"/> <img src="https://img.shields.io/github/license/ninilich/eye-heaven-app?style=flat-square" alt="License"/><br/>
+      <sub>🟢 active</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ninilich/dag-executor-lib"><b>dag-executor-lib</b></a><br/><br/>
+      <sub>Scala library for parallel task execution via DAG.<br/>Define tasks with dependencies, run them in correct order.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala"/> <img src="https://img.shields.io/github/v/release/ninilich/dag-executor-lib?style=flat-square" alt="Release"/> <img src="https://img.shields.io/github/license/ninilich/dag-executor-lib?style=flat-square" alt="License"/> <img src="https://img.shields.io/github/stars/ninilich/dag-executor-lib?style=flat-square" alt="Stars"/><br/>
+      <sub>🔵 stable</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ninilich/json-schema-to-spark"><b>json-schema-to-spark</b></a><br/><br/>
+      <sub>Python library: parses JSON Schema and builds<br/>Apache Spark DataFrame schema (StructType).</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/> <img src="https://img.shields.io/github/license/ninilich/json-schema-to-spark?style=flat-square" alt="License"/> <img src="https://img.shields.io/github/stars/ninilich/json-schema-to-spark?style=flat-square" alt="Stars"/><br/>
+      <sub>🔵 stable</sub>
     </td>
   </tr>
 </table>
